@@ -13,6 +13,7 @@ En resumidas cuentas desarrollando esta app web aprendí y puse en práctica con
 *Manejo de hooks
 *Routes Web
 *Eventos
+*Context
 *Integración con Firebase
 *Verificación de usuarios
 *Formik
