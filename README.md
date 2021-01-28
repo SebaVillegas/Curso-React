@@ -22,4 +22,4 @@ Seguramente se puede seguir mejorando (principalmente dejar un código más clar
 
 Dejo este repositorio público porque nunca se sabe a quién quizás le puede servir en un futuro.
 
-Saludos. <SVDev />
+Saludos. SVDev
